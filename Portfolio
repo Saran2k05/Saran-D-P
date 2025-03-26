@@ -95,8 +95,8 @@
     <header>
         <div class="header-content">
             <!-- Add your profile picture here -->
-            <img src="C:\Users\Divya krishnan\OneDrive\Pictures\ドキュメント\Desktop\krishna.jpg" alt="Your Profile Picture" class="profile-picture">
-            <h1>DIVYAKRISHNAN M</h1>
+            <img src="c:\Users\saran\OneDrive\Pictures\IMG_20230628_100851.jpg" alt="Your Profile Picture" class="profile-picture">
+            <h1>SARAN DP</h1>
             <p>STUDYING BCA</p>
             <p>AGURCHAND MANMULL JAIN COLLEGE, MEENAMBAKKAM, CHENNAI</p>
         </div>
@@ -149,14 +149,14 @@
         <div class="section-content">
             <center>
             <h2>Resume</h2>
-            <a href="C:\Users\Divya krishnan\OneDrive\Pictures\ドキュメント\Desktop\CV_2025032413213237.pdf" target="_blank" class="download-button">Download CV</a>
+            <a href="c:\Users\saran\OneDrive\Pictures\IMG_20230628_100851.jpg" target="_blank" class="download-button">Download CV</a>
         </center>
         </div>
         
     </section>
 
     <footer>
-        <p>&copy; 2025 DIVYAKRISHNAN M</p>
+        <p>&copy; 2025 SARAN DP</p>
     </footer>
 
     <script>
