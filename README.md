@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
     <title>Portfolio</title>
@@ -177,5 +177,3 @@
             });
         });
     </script>
-</body>
-</html>
